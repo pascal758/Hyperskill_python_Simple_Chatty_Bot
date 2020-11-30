@@ -38,5 +38,3 @@ def answer_methods():
 
 print('Completed, have a nice day!')
 print('Congratulations, have a nice day!')
-
-print()
